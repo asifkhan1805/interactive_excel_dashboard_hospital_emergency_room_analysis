@@ -40,11 +40,13 @@ The following steps were followed to complete the Hospital Emergency Room Dashbo
 - Real-time insights using automated calculations and charts.
 - Clean layout for intuitive user experience.
 
+## 📸 Dashboard Preview
+![hospital_hr_dashboard](https://github.com/user-attachments/assets/516a0a25-f9d9-4736-8e8a-3b8e7e1445f9)
+
+
 ## 📁 File Contents
-- `Hospital_ER_Dashboard.jpg` – Main dashboard Image with all analysis and visualizations.
+- `hospital_hr_dashboard.gif` – Main dashboard Image with all analysis and visualizations.
 - Data file- `Hospital Emergency Room Data.csv`
-- Dashboard link- > 🔗 **[Click here to view the Dashboard](https://guscanada-my.sharepoint.com/:x:/g/personal/asif_mohammed0254_myucw_ca/ESyUTgCgr6JKkfxglXfvnLwBkZUPcnFg0KiC0avmOuHt9Q?e=CLl1fI)**
 
-
-## 📬 Contact
-For any queries or feedback, feel free to reach out via GitHub.
+Created by **Asif Khan Mohammed**  
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/asif-khan-mohammed-92341b261/) or collaborate on another data project!
